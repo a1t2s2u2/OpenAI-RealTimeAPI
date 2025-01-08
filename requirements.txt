@@ -3,4 +3,3 @@ soundfile
 sounddevice
 numpy
 python-dotenv
-threading
